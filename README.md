@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 🤠
 
 ## 👉 Current 4th-year Computer Systems Networking and Telecommunications student 🧑‍🎓
 
