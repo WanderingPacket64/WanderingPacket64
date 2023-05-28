@@ -17,4 +17,8 @@
 
 ---
 
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/WanderingPacket.png" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/WanderingPacket.png" />
+
+---
+
+![WanderingPacket64's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderingPacket64&theme=dark&show_icons=true)
