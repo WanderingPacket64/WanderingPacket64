@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-## 👉 Current 4th-year Computer Systems Networking and Telecommunications student 🧑‍🎓
+## 👉 Current 4th-year Computer Systems Networking and Telecommunications student
 
 - Learning network engineering from the inside out 📖
 - Strong understanding of Cisco network products 🤯
