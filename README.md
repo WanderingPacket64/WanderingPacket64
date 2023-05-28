@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**WanderingPacket64/WanderingPacket64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👉 Current 4th-year Computer Systems Networking and Telecommunications student 🧑‍🎓
 
-Here are some ideas to get you started:
+- Learning network engineering from the inside out 📖
+- Strong understanding of Cisco network products 🤯
+- Always excited for new projects, specifically those surrounding information security❗
+- Will be attempting CCNA, Sec+, and possibly CySA certification exams soon 😄
+- Always looking to learn as much as possible about a variety of topics 🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently learning Python, advance networking topics covered in CCNP, security-focused courses like CySA, CASP+, and CISSP related studies. Finishing up my B.A.S. in Computer Systems Networking with a goal to obtain my M.S. in Cyber Security next!
+- 💬 Familiarity with routing and switching concepts, network design, and network traffic analysis with an excitement for network security
+- ⚡ Fun fact: I willingly throw myself out of "perfectly good" airplanes for fun!
+
+---
+
+<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/WanderingPacket.png" />
