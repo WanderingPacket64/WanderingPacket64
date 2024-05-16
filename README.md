@@ -1,13 +1,13 @@
 ### Howdy! 🤠
 
 ## 👉 B.A.S. in Computer Systems Networking and Telecommunications
-## 👉 Current M.S. in Cybersecurity and Information Assurance student
-## 👉 ISC2 Certified
+## 👉 Current M.S. in Cybersecurity and Information Assurance graduate student
+## 👉 CompTIA Security+ ce and ISC2 CC Certified
 
 - Learning network engineering from the inside out 📖
 - Strong understanding of Cisco, Palo Alto, and Fortinet network products 🤯
 - Always excited for new projects, specifically those surrounding information security❗
-- Will be attempting CCNA, Sec+, and possibly CySA certification exams soon 😄
+- Will be attempting CCNP, CySA+, and CASP+ certification exams soon 😄
 - Always looking to learn as much as possible about a variety of topics 🙂
 
 ---
