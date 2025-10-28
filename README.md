@@ -14,7 +14,7 @@
 ---
 
 - Currently focused on gaining experience in my professional role
-- Actively studying for CCNP Enterprise and CCNP Security
+- Actively studying for HTB's CAPE, ISACA CISM, and Cisco's CCNP Enterprise and CCNP Security. 
 - Always finding ways to continue learning outside of a formal, professional environment
 
 ---
