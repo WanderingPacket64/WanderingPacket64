@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/WanderingPacket.png" alt="WanderingPacket" />
+![tryhackme stats](https://raw.githubusercontent.com/WanderingPacket64/WanderingPacket64/master/assets/thm_propic.png)
 
 ---
 
