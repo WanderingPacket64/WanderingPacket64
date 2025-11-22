@@ -18,6 +18,7 @@
 - Always finding ways to continue learning outside of a formal, professional environment
 
 ---
+<iframe width="160" height="120" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1729425" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1729425" style='border:none;'></iframe>
 
