@@ -16,7 +16,3 @@
 - Currently focused on gaining experience in my professional role
 - Actively studying for GIAC GMON & GASAE, HTB's CAPE, ISACA CISM, and Cisco's CCNP Enterprise and CCNP Security. 
 - Always finding ways to continue learning outside of a formal, professional environment
-
----
-
-![WanderingPacket64's GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderingPacket64&theme=dark&show_icons=true)
